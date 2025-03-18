@@ -55,7 +55,9 @@ Silly Awards:
 
 Badges like "Most Disastrous Chef" or "Master of Chaos Cooking."
 
-Deployed Render Link:- https://s64-recipebuilder.onrender.com
+<!-- Deployed Render Link:- https://s64-recipebuilder.onrender.com -->
+
+deployed vercel link- https://s64-recipe-builder-88z1.vercel.app/
 
 
 
