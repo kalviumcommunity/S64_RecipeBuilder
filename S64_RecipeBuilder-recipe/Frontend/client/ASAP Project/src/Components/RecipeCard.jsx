@@ -40,6 +40,7 @@ const dummyRecipe = {
   ingredients: ["Spaghetti", "Eggs", "Pancetta", "Parmesan Cheese", "Black Pepper"],
 };
 
+
 const App = () => {
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-100">
